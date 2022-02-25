@@ -17,10 +17,11 @@ Complicated preparation is the crowning adzin motsny move.
 3.  JavaScript (ES6+)
 4.  Sass
 5.  Method (BAM)
-6.  Gulp
+6.  Webpack
 7.  Git
 8.  Figma
-9.  React
+9.  Gulp
+10. React
 
 # Code example
 
