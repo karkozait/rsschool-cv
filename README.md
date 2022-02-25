@@ -1,1 +1,1 @@
-# https://karkozait.github.io/rsschool-cv/cv
+# https://karkozait.github.io/rsschool-cv/
